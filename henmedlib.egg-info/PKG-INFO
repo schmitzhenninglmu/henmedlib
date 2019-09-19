@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: henmedlib
-Version: 0.0.1
+Version: 0.0.3
 Summary: Package encapsulating all functions I used during my PhD.
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/schmitzhenninglmu/henmedlib
 Author: Henning Schmitz
 Author-email: H.Schmitz@physik.uni-muenchen.de 
 License: UNKNOWN
