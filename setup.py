@@ -13,7 +13,8 @@ setuptools.setup(
     description="Package encapsulating all functions I used during my PhD.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/schmitzhenninglmu/henmedlib",
+    download_url="https://github.com/schmitzhenninglmu/henmedlib/archive/0.0.1.tar.gz"
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
