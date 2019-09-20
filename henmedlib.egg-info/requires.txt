@@ -1,5 +1,0 @@
-sys
-os
-numpy
-pydicom
-SimpleITK
