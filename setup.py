@@ -23,5 +23,5 @@ setuptools.setup(
     license='MIT',
     python_requires='>=3.6',
     py_modules=['test'],
-    install_requires=['sys', 'os', 'pydicom', 'SimpleITK', 'numpy']
+    install_requires=['pydicom', 'SimpleITK', 'numpy']
 )
