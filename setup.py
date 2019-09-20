@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="henmedlib",
-    version="0.0.8",
+    version="0.0.9",
     author="Henning Schmitz",
     author_email="H.Schmitz@physik.uni-muenchen.de ",
     description="Package encapsulating all functions I used during my PhD.",
@@ -20,6 +20,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    license='MIT',
     python_requires='>=3.6',
     py_modules=['test'],
     install_requires=['pydicom', 'SimpleITK', 'numpy']
