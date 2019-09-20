@@ -1,7 +1,7 @@
 README.md
 setup.py
 functions/__init__.py
-functions/anonymize.py
+functions/anonymise.py
 functions/command_line_related.py
 functions/directory_structure.py
 functions/hounsfield.py
