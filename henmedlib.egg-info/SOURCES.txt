@@ -1,5 +1,7 @@
+LICENSE.txt
 README.md
 setup.py
+test.py
 functions/__init__.py
 functions/anonymise.py
 functions/command_line_related.py
