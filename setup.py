@@ -21,5 +21,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    py_modules=['test']
+    py_modules=['test'],
+    install_requires=['pydicom', 'SimpleITK', 'numpy']
 )
