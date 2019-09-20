@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="henmedlib",
-    version="0.0.5",
+    version="0.0.6",
     author="Henning Schmitz",
     author_email="H.Schmitz@physik.uni-muenchen.de ",
     description="Package encapsulating all functions I used during my PhD.",
@@ -21,6 +21,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    data_files = [("", ["LICENSE.txt"])],
     py_modules=['test']
 )

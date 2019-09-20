@@ -4,5 +4,5 @@ __author__ = "Henning Schmitz"
 
 name = "henmedlib.i_o"
 
-from dicom.py import *
-from mha.py import *
+from .dicom import *
+from .mha import *

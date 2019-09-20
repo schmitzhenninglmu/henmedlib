@@ -2,4 +2,4 @@ __author__ = "Henning Schmitz"
 
 name = "henmedlib"
 
-from test.py import *
+from .test import *
