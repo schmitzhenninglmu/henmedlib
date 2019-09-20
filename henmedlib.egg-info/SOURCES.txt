@@ -9,6 +9,7 @@ functions/hounsfield.py
 henmedlib.egg-info/PKG-INFO
 henmedlib.egg-info/SOURCES.txt
 henmedlib.egg-info/dependency_links.txt
+henmedlib.egg-info/requires.txt
 henmedlib.egg-info/top_level.txt
 i_o/__init__.py
 i_o/dicom.py
