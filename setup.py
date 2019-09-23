@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="henmedlib",
-    version="0.0.9",
+    version="0.0.17",
     author="Henning Schmitz",
     author_email="H.Schmitz@physik.uni-muenchen.de ",
     description="Package encapsulating all functions I used during my PhD.",
