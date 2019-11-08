@@ -1,3 +1,4 @@
 pydicom
 SimpleITK
 numpy
+opencv-python

@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="henmedlib",
-    version="0.0.17",
+    version="1.0.7",
     author="Henning Schmitz",
     author_email="H.Schmitz@physik.uni-muenchen.de ",
     description="Package encapsulating all functions I used during my PhD.",
@@ -23,5 +23,5 @@ setuptools.setup(
     license='MIT',
     python_requires='>=3.6',
     py_modules=['test'],
-    install_requires=['pydicom', 'SimpleITK', 'numpy']
+    install_requires=['pydicom', 'SimpleITK', 'numpy', 'opencv-python']
 )

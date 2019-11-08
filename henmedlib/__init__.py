@@ -1,3 +1,2 @@
-from .test import *
-from . import functions
+from . import func
 from . import i_o
