@@ -1,2 +1,2 @@
-from . import func
+from . import functions
 from . import i_o
